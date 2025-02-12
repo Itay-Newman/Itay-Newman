@@ -25,6 +25,6 @@
 
 ###
 
-<src href="github-user-contribution.svg" alt = "snake"></src>
+<img src="github-user-contribution.svg" alt="Snake animation" />
 
 ###
