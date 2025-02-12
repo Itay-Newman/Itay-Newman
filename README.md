@@ -25,6 +25,6 @@
 
 ###
 
-<img src="https://github.com/Itay-Newman/Itay-Newman/blob/main/github-user-contribution.svg" alt="Snake animation" />
+<img src="github-user-contribution.svg" alt="Snake animation" />
 
 ###
