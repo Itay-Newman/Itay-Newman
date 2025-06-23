@@ -23,7 +23,6 @@
 <a href="https://fb.com/itay newman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="itay newman" height="30" width="40" /></a>
 <a href="https://instagram.com/itaynewman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itaynewman" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/itay newman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="itay newman" height="30" width="40" /></a>
-<a href="https://gitlab.com/itaynewman" target="_blank" rel="noreferrer"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonduck.com%2Ficons%2F27408%2Fgitlab&psig=AOvVaw1qETPTGdbOcaxETyhX8GiI&ust=1750774331740000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNi4iYbdh44DFQAAAAAdAAAAABAE" alt="itaynewman" height="30" width="40">
 </a>
 </p>
 
