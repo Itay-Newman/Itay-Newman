@@ -42,8 +42,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itay-newman&show_icons=true&locale=en" alt="itay-newman" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itay-newman&" alt="itay-newman" /></p>
-
 ###
 
 <img src="github-user-contribution.svg" alt="Snake animation" />
